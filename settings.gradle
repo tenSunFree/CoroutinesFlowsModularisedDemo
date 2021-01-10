@@ -1,0 +1,8 @@
+include ':presentation'
+include ':navigation'
+include ':domain'
+include ':data-api'
+include ':data'
+include ':core'
+include ':app'
+rootProject.name = "CoroutinesFlowsModularisedDemo"
